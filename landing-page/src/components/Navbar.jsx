@@ -25,7 +25,7 @@ const Navbar = () => {
             <img src={lock} />
             Login
           </button>
-          <button className="px-8 py-3 bg-[#3be9ec] rounded-md text-white font-bold">
+          <button className="px-8 py-3 bg-[#208486] rounded-md text-white font-bold">
             Sign up For Free
           </button>
         </div>
